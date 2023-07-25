@@ -1,4 +1,4 @@
-import React 
+
 
 const GenreList = () => {
   return (
